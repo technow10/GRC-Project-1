@@ -1,1 +1,1 @@
-# GRC-Project-1
+# GRC Project - Proposal for Development of a NIST-Based Cybersecurity Program For MedSure Healthcare Services

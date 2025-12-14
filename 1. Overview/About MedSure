@@ -1,0 +1,20 @@
+# MedSure Healthcare Services. 
+MedSure Health Services is a midsize healthcare provider supporting clinical operations, patient services, and digital health platforms across multiple locations in Texas. The organization employs approximately 5,000 staff, with 20% working remotely, accessing critical systems such as electronic health records (EHR), patient portals, and cloud-based services. This organization also manages sensitive data which including;
+
+1.  Protected Health Information (PHI)
+2.  Personally Identifiable Information (PII)
+3.  Financial data
+
+Making cybersecurity and regulatory compliance a critical organizational priority. MedSure Health have other operational eenvironment that requires a risk based assessment these includes;
+
+IT Environment:
+
+On-prem EHR system
+
+Cloud-based patient portal
+
+Hybrid Active Directory
+
+Medical devices (IoT)
+
+Third-party billing vendor
